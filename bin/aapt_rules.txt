@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:25
+-keep class com.Rainy.FloatService { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.Rainy.MainActivity { <init>(...); }
+
+# view res/layout/float_view.xml #generated:5
+-keep class com.Rainy.mSurfaceView { <init>(...); }
+
